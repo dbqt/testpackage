@@ -1,0 +1,17 @@
+{
+  "name": "net.dbqt.qttools",
+  "displayName": "QT Tools",
+  "version": "0.0.1",
+  "description": "This is a collection of tools that I use when working with VRChat projects.",
+  "gitDependencies": {},
+  "vpmDependencies": {
+    "com.vrchat.avatars": "3.2.3"
+  },
+  "author": {
+    "name": "Dbqt",
+    "email": "dbqt@outlook.com"
+  },
+  "legacyFolders": {},
+  "legacyFiles": {},
+  "localPath": "D:\\Dbqt\\UnityProjects\\VRCPackages\\testpackage\\Packages\\net.dbqt.qttools"
+}
